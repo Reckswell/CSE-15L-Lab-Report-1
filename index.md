@@ -1,4 +1,4 @@
-# How to remotely log into a course-specific account on ieng-6
+# How to remotely log into your course using SSH
 
 This is a simple tutorial which will explain the steps taken to log into ieng-6. This is used for certain classes, namely CSE and ECE programming-related courses. Specifically, this tutorial will be explain how to install [Visual Studio Code](https://code.visualstudio.com/), related software, how to access your account info, and how to remotely log in through Secure Shell (SSH for short).
 
