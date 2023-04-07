@@ -3,7 +3,7 @@
 This is a simple tutorial which will explain the steps taken to log into ieng-6. This is used for certain classes, namely CSE and ECE programming-related courses. Specifically, this tutorial will be explain how to install [Visual Studio Code](https://code.visualstudio.com/), related software, how to access your account info, and how to remotely log in through Secure Shell (SSH for short).
 
 <br> This tutorial will be split into 3 major steps, with substeps:
-<br> * Installing and Setting up Visual Studio Code
+* Installing and Setting up Visual Studio Code
 * Accessing related account info
 * Running commands through SSH
 
