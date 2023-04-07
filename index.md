@@ -4,6 +4,8 @@ This is a simple tutorial which will explain the steps taken to log into ieng-6.
 
 <br> This tutorial will be split into 3 major steps, with substeps:
 <br> * Installing and Setting up Visual Studio Code
+* Accessing related account info
+* Running commands through SSH
 
 ## Step 1: Installing Visual Studio Code
 Visual Studio Code, or VSCode for short is a very flexible coding environment used by a large amount of users, and is the 
