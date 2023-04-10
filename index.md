@@ -47,14 +47,14 @@ To start, write the command `ssh *your username*@ieng6.ucsd.edu` (remember to re
 
 An example of this looks like: `ssh cs12sp23xx@ieng.ucsd.edu`
 <br>
-<br> ![one](https://user-images.githubusercontent.com/73510375/230809771-ee951a88-67d1-4108-a776-58631ce8c97f.PNG)
+<br> ![image](https://user-images.githubusercontent.com/73510375/230809771-ee951a88-67d1-4108-a776-58631ce8c97f.PNG)
 
 If you wrote the command wrong, you won't immediately be able to tell, but you also won't be able to log in since that username and address don't exist as a valid combination. Make sure to carefully **check your spelling** when writing your commands.
 
 Next, type `yes` to allow your system to connect to `ieng6`. You should then be asked to enter your password as shown:
 
 <br>
-<br> ![two](https://user-images.githubusercontent.com/73510375/230810840-a8095384-8979-4dce-bb15-029996c7fc9e.PNG)
+<br> ![image](https://user-images.githubusercontent.com/73510375/230810840-a8095384-8979-4dce-bb15-029996c7fc9e.PNG)
 
 You might have to enter your password multiple times.
 
@@ -63,7 +63,7 @@ You might have to enter your password multiple times.
 After successfully logging in, you should see a screen similar to the one below:
 
 <br>
-<br> ![three](https://user-images.githubusercontent.com/73510375/230811109-f4469c36-aea9-4450-bf5f-80a9b5889187.PNG)
+<br> ![image](https://user-images.githubusercontent.com/73510375/230811109-f4469c36-aea9-4450-bf5f-80a9b5889187.PNG)
 
 *My example includes a failed login attempt at the top to showcase what happens if you fail to put in your password correctly. After 5 failed attempts, you will be kicked out.
 
