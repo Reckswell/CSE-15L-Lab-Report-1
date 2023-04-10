@@ -26,7 +26,7 @@ After installing Git, [follow these instructions](https://stackoverflow.com/ques
 To access your account information for your specific class, go to the link: [https://sdacs.ucsd.edu/~icc/index.php](https://sdacs.ucsd.edu/~icc/index.php). From here, log in with your school username (your email, without the extending email part) and your student ID.
 
 Click the respective username for your course. It should contain some course information, such as "cs12sp23xx", where **cs12** stands for Computer Science 12 (your course name), **sp23** stands for Spring 2023 (your session), and **xx** is your username (unique for each person) in respect to your course.
-![image](https://user-images.githubusercontent.com/73510375/230809308-c46b750c-12ad-4b18-9667-44979ea2fd0f.png)
+<br> ![image](https://user-images.githubusercontent.com/73510375/230809308-c46b750c-12ad-4b18-9667-44979ea2fd0f.png)
 
 If you haven't accessed your account for this course before, you will need to reset your password. Follow the link "change your password for this account" to change your password:
 ![image](https://user-images.githubusercontent.com/73510375/230809076-161e49ab-910a-4948-b110-66b65e4ad299.png)
@@ -35,6 +35,7 @@ For a more detailed explanation, use the following [guide](https://drive.google.
 
 ## Step 3: Remotely Connecting
 If you're on windows, you can directly open Git Bash and write your commands in there. Alternatively, you can write them in the Git Bash terminal option in VSCode.
+<br>
 <br> ![image](https://user-images.githubusercontent.com/73510375/230808548-d342f6e5-fa9b-4b34-a0ff-a66595c4dbe3.png)
 
 For this tutorial, I used the Git Bash terminal separate of VSCode to write my commands.
@@ -42,6 +43,7 @@ For this tutorial, I used the Git Bash terminal separate of VSCode to write my c
 To start, write the command `ssh *your username*@ieng6.ucsd.edu` (remember to replace xx with your respective username).
 
 An example of this looks like: `ssh cs12sp23xx@ieng.ucsd.edu`
+<br>
 <br> ![one](https://user-images.githubusercontent.com/73510375/230809771-ee951a88-67d1-4108-a776-58631ce8c97f.PNG)
 
 If you wrote the command wrong, you won't immediately be able to tell, but you also won't be able to log in since that username and address don't exist as a valid combination. Make sure to carefully **check your spelling** when writing your commands.
