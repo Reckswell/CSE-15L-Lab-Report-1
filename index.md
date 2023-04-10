@@ -54,7 +54,7 @@ If you wrote the command wrong, you won't immediately be able to tell, but you a
 Next, type `yes` to allow your system to connect to `ieng6`. You should then be asked to enter your password as shown:
 
 <br>
-<br> ![two](https://user-images.githubusercontent.com/73510375/230817953-864a0523-c8a8-48ee-8e9b-e942beac72d9.PNG)
+<br> ![image](https://user-images.githubusercontent.com/73510375/230818027-306cb7a2-195f-47dd-a458-0a8ae3f810de.png)
 
 You might have to enter your password multiple times.
 
