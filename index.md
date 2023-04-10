@@ -12,11 +12,11 @@ Visual Studio Code, or VSCode for short is a very flexible coding environment us
 
 To begin, navigate to their [install page](https://code.visualstudio.com/Download) and download the latest version for your respective operating system. The install page should look something like the image below:
 <br>
-![image](https://user-images.githubusercontent.com/73510375/230574676-2938e763-2438-4ab8-b13b-dfec82bb0474.png)
+<br> ![image](https://user-images.githubusercontent.com/73510375/230574676-2938e763-2438-4ab8-b13b-dfec82bb0474.png)
 
 Afterwards, set up Visual Studio Code for the first time. The home page should look like a variation of this:
 <br>
-![image](https://user-images.githubusercontent.com/73510375/230806022-a8a1d47f-e3e6-49aa-8271-96c72474dffa.png)
+<br> ![image](https://user-images.githubusercontent.com/73510375/230806022-a8a1d47f-e3e6-49aa-8271-96c72474dffa.png)
 Note that you may have a Welcome page upon your first installation. As long as Visual Studio Code is able to run, you're good to go.
 
 ## Step 1.5: Installing Git (For Windows systems only)
