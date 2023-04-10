@@ -35,14 +35,14 @@ For a more detailed explanation, use the following [guide](https://drive.google.
 
 ## Step 3: Remotely Connecting
 If you're on windows, you can directly open Git Bash and write your commands in there. Alternatively, you can write them in the Git Bash terminal option in VSCode.
-![image](https://user-images.githubusercontent.com/73510375/230808548-d342f6e5-fa9b-4b34-a0ff-a66595c4dbe3.png)
+<br> ![image](https://user-images.githubusercontent.com/73510375/230808548-d342f6e5-fa9b-4b34-a0ff-a66595c4dbe3.png)
 
 For this tutorial, I used the Git Bash terminal separate of VSCode to write my commands.
 
 To start, write the command `ssh *your username*@ieng6.ucsd.edu` (remember to replace xx with your respective username).
 
 An example of this looks like: `ssh cs12sp23xx@ieng.ucsd.edu`
-![one](https://user-images.githubusercontent.com/73510375/230809771-ee951a88-67d1-4108-a776-58631ce8c97f.PNG)
+<br> ![one](https://user-images.githubusercontent.com/73510375/230809771-ee951a88-67d1-4108-a776-58631ce8c97f.PNG)
 
 If you wrote the command wrong, you won't immediately be able to tell, but you also won't be able to log in since that username and address don't exist as a valid combination. Make sure to carefully **check your spelling** when writing your commands.
 
