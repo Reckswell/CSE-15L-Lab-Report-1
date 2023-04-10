@@ -54,8 +54,7 @@ If you wrote the command wrong, you won't immediately be able to tell, but you a
 Next, type `yes` to allow your system to connect to `ieng6`. You should then be asked to enter your password as shown:
 
 <br>
-<br> 
-![image](https://user-images.githubusercontent.com/73510375/230818073-e1d61eed-3554-45b1-b3b0-f327707f13f2.PNG)
+<br> ![image](https://user-images.githubusercontent.com/73510375/230818073-e1d61eed-3554-45b1-b3b0-f327707f13f2.PNG)
 
 You might have to enter your password multiple times.
 
@@ -64,8 +63,7 @@ You might have to enter your password multiple times.
 After successfully logging in, you should see a screen similar to the one below:
 
 <br>
-<br> 
-![image](https://user-images.githubusercontent.com/73510375/230818112-a3b364d8-f0d6-40a2-bdbf-2dfdc11e816d.PNG)
+<br> ![image](https://user-images.githubusercontent.com/73510375/230818112-a3b364d8-f0d6-40a2-bdbf-2dfdc11e816d.PNG)
 
 *My example includes a failed login attempt at the top to showcase what happens if you fail to put in your password correctly. After 5 failed attempts, you will be kicked out.
 
