@@ -51,3 +51,32 @@ An example of this looks like: `ssh cs12sp23xx@ieng.ucsd.edu`
 
 If you wrote the command wrong, you won't immediately be able to tell, but you also won't be able to log in since that username and address don't exist as a valid combination. Make sure to carefully **check your spelling** when writing your commands.
 
+Next, type `yes` to allow your system to connect to `ieng6`. You should then be asked to enter your password as shown:
+
+<br>
+<br> ![two](https://user-images.githubusercontent.com/73510375/230810840-a8095384-8979-4dce-bb15-029996c7fc9e.PNG)
+
+You might have to enter your password multiple times.
+
+**Note:** if you recently changed your password, you may have to wait up to 15 minutes before the system recognizes the change and you're able to log in.
+
+After successfully logging in, you should see a screen similar to the one below:
+
+<br>
+<br> ![three](https://user-images.githubusercontent.com/73510375/230811109-f4469c36-aea9-4450-bf5f-80a9b5889187.PNG)
+
+*My example includes a failed login attempt at the top to showcase what happens if you fail to put in your password correctly. After 5 failed attempts, you will be kicked out.
+
+## Step 4: Commands and how to use them
+Try the commands, `cd`, `ls`, `pwd`, `mkdir`, and `cp` in various ways.
+
+If you're stuck, here's a list of various commands you can try:
+* `ls`
+* `cd ~`
+* `pwd`
+* `cp`
+* `cd /home/linux/ieng6/cs15lsp23/public`
+* `cp /home/linux/ieng6/cs15lsp23/public/README.instructor ~/`
+* `cat /home/linux/ieng6/cs15lsp23/public/README.instructor`
+
+To exit the terminal, either use Ctrl + D or the command `exit`.
