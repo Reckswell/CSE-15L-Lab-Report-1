@@ -2,8 +2,6 @@
 
 This is a simple tutorial which will explain the steps taken to log into ieng-6. This is used for certain classes, namely CSE and ECE programming-related courses. Specifically, this tutorial will be explain how to install [Visual Studio Code](https://code.visualstudio.com/), related software, how to access your account info, and how to remotely log in through Secure Shell (SSH for short).
 
-![image](https://user-images.githubusercontent.com/73510375/230811109-f4469c36-aea9-4450-bf5f-80a9b5889187.PNG)
-
 <br> This tutorial will be split into 3 major steps, with substeps:
 * Installing and Setting up Visual Studio Code
 * Accessing related account info
@@ -55,8 +53,7 @@ If you wrote the command wrong, you won't immediately be able to tell, but you a
 
 Next, type `yes` to allow your system to connect to `ieng6`. You should then be asked to enter your password as shown:
 
-<br>
-<br> ![image](https://user-images.githubusercontent.com/73510375/230810840-a8095384-8979-4dce-bb15-029996c7fc9e.PNG)
+![image](https://user-images.githubusercontent.com/73510375/230810840-a8095384-8979-4dce-bb15-029996c7fc9e.PNG)
 
 You might have to enter your password multiple times.
 
@@ -64,8 +61,7 @@ You might have to enter your password multiple times.
 
 After successfully logging in, you should see a screen similar to the one below:
 
-<br>
-<br> ![image](https://user-images.githubusercontent.com/73510375/230811109-f4469c36-aea9-4450-bf5f-80a9b5889187.PNG)
+![image](https://user-images.githubusercontent.com/73510375/230811109-f4469c36-aea9-4450-bf5f-80a9b5889187.PNG)
 
 *My example includes a failed login attempt at the top to showcase what happens if you fail to put in your password correctly. After 5 failed attempts, you will be kicked out.
 
