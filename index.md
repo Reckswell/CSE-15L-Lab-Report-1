@@ -11,9 +11,11 @@ This is a simple tutorial which will explain the steps taken to log into ieng-6.
 Visual Studio Code, or VSCode for short is a very flexible coding environment used by a large amount of users, and is the interface which we will use in this tutorial, namely for its terminal function. 
 
 To begin, navigate to their [install page](https://code.visualstudio.com/Download) and download the latest version for your respective operating system. The install page should look something like the image below:
+<br>
 ![image](https://user-images.githubusercontent.com/73510375/230574676-2938e763-2438-4ab8-b13b-dfec82bb0474.png)
 
 Afterwards, set up Visual Studio Code for the first time. The home page should look like a variation of this:
+<br>
 ![image](https://user-images.githubusercontent.com/73510375/230806022-a8a1d47f-e3e6-49aa-8271-96c72474dffa.png)
 Note that you may have a Welcome page upon your first installation. As long as Visual Studio Code is able to run, you're good to go.
 
@@ -26,6 +28,7 @@ After installing Git, [follow these instructions](https://stackoverflow.com/ques
 To access your account information for your specific class, go to the link: [https://sdacs.ucsd.edu/~icc/index.php](https://sdacs.ucsd.edu/~icc/index.php). From here, log in with your school username (your email, without the extending email part) and your student ID.
 
 Click the respective username for your course. It should contain some course information, such as "cs12sp23xx", where **cs12** stands for Computer Science 12 (your course name), **sp23** stands for Spring 2023 (your session), and **xx** is your username (unique for each person) in respect to your course.
+<br>
 <br> ![image](https://user-images.githubusercontent.com/73510375/230809308-c46b750c-12ad-4b18-9667-44979ea2fd0f.png)
 
 If you haven't accessed your account for this course before, you will need to reset your password. Follow the link "change your password for this account" to change your password:
